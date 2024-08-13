@@ -1,4 +1,4 @@
-//Apple exercise
+//Apple exeris
 
 interface Props {
     s: number;
