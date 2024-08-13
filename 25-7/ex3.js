@@ -21,7 +21,7 @@ function romanToInt(s) {
       total += currentVal;
     }
   }
-  return;
+  return total;
 }
 
-console.log(romanToInt("III"));
+console.log(romanToInt("DDDD"));
