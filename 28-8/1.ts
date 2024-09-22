@@ -26,3 +26,5 @@ function a(arr: number[]): number[][] {
     return sum
 }
 console.log(a(num))
+
+
